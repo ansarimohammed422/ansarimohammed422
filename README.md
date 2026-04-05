@@ -1,30 +1,36 @@
-# Hi there! 👋 I'm Mohammed Ansari
+# <div align="center">Hi there! 👋 I'm Mohammed Ansari</div>
 
-**Software Developer | Programmer** *"Passionate about continuous learning and contributing to impactful software projects within a collaborative and growth-oriented company."*
+<div align="center">
+  <h3>Software Developer | Programmer</h3>
+  <i>"Passionate about continuous learning and contributing to impactful software projects within a collaborative and growth-oriented company."</i>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Aspiring Software Developer with a solid foundation in full-stack web technologies (React, Django), multiple programming languages (Python, Java, C++), and Linux environments. As a future software developer, I aim to develop strong leadership qualities such as problem-solving, effective communication, teamwork, and adaptability. 
+I am an Aspiring Software Developer with a solid foundation in full-stack web technologies, multiple programming languages, and Linux environments. I aspire to take initiative in projects, collaborate with peers, mentor junior developers, and continuously learn new technologies to contribute effectively to my organization. I pride myself on strong problem-solving skills, adaptability, and an eagerness to lead and learn.
 
-I aspire to take initiative in projects, collaborate with peers, mentor junior developers, and continuously learn new technologies to contribute effectively to my team and organization. I pride myself on strong written and verbal communication, teamwork, problem-solving, adaptability, and an eagerness to learn and mentor peers.
+<br>
 
-### 🎯 Current Focus
-* **AI/ML Integration:** Architecting and building an **OCR SaaS application** using cutting-edge models like Qwen2 and vLLM for advanced image and PDF-to-text conversion.
-* **Full-Stack Mastery:** Expanding my expertise in building scalable, responsive web architectures.
-
----
-
-## 📊 GitHub Analytics
-
-*(Note: These are standard Markdown images. If they don't load immediately, the server is temporarily hitting rate limits and will refresh on its own).*
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansarimohammed422&show_icons=true&theme=radical&hide_border=true&v=1)
-
-![Mohammed's Contribution Streak](https://streak-stats.demolab.com/?user=ansarimohammed422&theme=radical&hide_border=true&v=1)
-
-![Mohammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansarimohammed422&layout=compact&theme=radical&hide_border=true&v=1)
+<table align="center">
+    <tr>
+        <td width="50%" valign="top">
+            <h3>🎯 Current Engineering Focus</h3>
+            <ul>
+                <li><b>AI/ML Integration:</b> Architecting and building an <b>OCR SaaS application</b> using cutting-edge open-source LLMs like Qwen2 and vLLM for advanced image and PDF-to-text conversion.</li>
+                <li><b>Full-Stack Mastery:</b> Expanding my expertise in building scalable, responsive web architectures using React and the Django REST Framework.</li>
+                <li><b>System Design:</b> Focusing on database optimization and clean, maintainable server-side logic.</li>
+            </ul>
+        </td>
+        <td width="50%" valign="top">
+            <h3>🔥 Contribution Consistency</h3>
+            <div align="center">
+                <img src="https://streak-stats.demolab.com/?user=ansarimohammed422&theme=radical&hide_border=true&v=1" alt="Mohammed's Contribution Streak" width="100%" />
+            </div>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -63,11 +69,11 @@ I aspire to take initiative in projects, collaborate with peers, mentor junior d
 
 ### 🏥 [Diagnostic Center Web Application](https://www.fortius.co.in/)
 * **Overview:** A full-stack web application developed to streamline patient appointment scheduling and report access. 
-* **Technical Stack:** Built with React (frontend), Django (backend), and MySQL (database), leveraging Django REST Framework for API interactions.
+* **Technical Stack:** Built with React (frontend), Django (backend), and MySQL (database), leveraging Django REST Framework for seamless API interactions.
 
 ### 🛒 Full-Stack E-commerce Platform
 * **Overview:** Engineered a comprehensive e-commerce website featuring core functionalities such as product catalog browsing, shopping cart management, and a mock checkout process. 
-* **Technical Stack:** Utilized React for a responsive frontend and Django for robust backend logic, with styling like Material You handled by Tailwind CSS.
+* **Technical Stack:** Utilized React for a responsive frontend and Django for robust backend logic, with modern styling handled by Tailwind CSS.
 
 ---
 
@@ -89,3 +95,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 * 💼 **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/mohammed-ansari-690524266)
 * 📧 **Email:** [ansarimohammed122@gmail.com](mailto:ansarimohammed122@gmail.com)
 * 📞 **Phone:** +91 9326797184
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+</div>

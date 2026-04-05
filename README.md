@@ -18,9 +18,9 @@ I am an Aspiring Software Developer with a solid foundation in full-stack web te
         <td width="50%" valign="top">
             <h3>🎯 Current Engineering Focus</h3>
             <ul>
-                <li><b>AI/ML Integration:</b> Architecting and building an <b>OCR SaaS application</b> using cutting-edge open-source LLMs like Qwen2 and vLLM for advanced image and PDF-to-text conversion.</li>
-                <li><b>Full-Stack Mastery:</b> Expanding my expertise in building scalable, responsive web architectures using React and the Django REST Framework.</li>
-                <li><b>System Design:</b> Focusing on database optimization and clean, maintainable server-side logic.</li>
+                <li><b>React Weather Application:</b> Developing a dynamic, responsive weather forecasting web app. Actively integrating the Open-Meteo API to fetch and elegantly display real-time meteorological data, focusing on clean UI/UX and efficient state management.</li>
+                <li><b>AI-Powered OCR SaaS:</b> Architecting and building an upcoming Image-to-Text SaaS platform. This project will heavily leverage <b>vLLM</b> (and models like Qwen2) for high-throughput, highly accurate data extraction from images and documents.</li>
+                <li><b>Full-Stack Mastery:</b> Continuously expanding my expertise in building scalable server-side logic and APIs using the Django REST Framework.</li>
             </ul>
         </td>
         <td width="50%" valign="top">

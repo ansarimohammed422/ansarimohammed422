@@ -1,9 +1,6 @@
-# <div align="center">Hi there! 👋 I'm Mohammed Ansari</div>
+# Hi there! 👋 I'm Mohammed Ansari
 
-<div align="center">
-  <h3>Software Developer | Programmer</h3>
-  <i>"Passionate about continuous learning and contributing to impactful software projects within a collaborative and growth-oriented company."</i>
-</div>
+**Software Developer | Programmer** *"Passionate about continuous learning and contributing to impactful software projects within a collaborative and growth-oriented company."*
 
 ---
 
@@ -21,14 +18,13 @@ I aspire to take initiative in projects, collaborate with peers, mentor junior d
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansarimohammed422&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansarimohammed422&theme=radical&hide_border=true" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarimohammed422&layout=compact&theme=radical&hide_border=true&v=1" width="60%" />
-</div>
+*(Note: These are standard Markdown images. If they don't load immediately, the server is temporarily hitting rate limits and will refresh on its own).*
+
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansarimohammed422&show_icons=true&theme=radical&hide_border=true&v=1)
+
+![Mohammed's Contribution Streak](https://streak-stats.demolab.com/?user=ansarimohammed422&theme=radical&hide_border=true&v=1)
+
+![Mohammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansarimohammed422&layout=compact&theme=radical&hide_border=true&v=1)
 
 ---
 
@@ -43,29 +39,23 @@ I aspire to take initiative in projects, collaborate with peers, mentor junior d
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-*Proficient in Python, JavaScript, Java, C++, C, C# (Basics).*
 
 ### 🔹 Frontend Development
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-*Experienced with React, HTML, CSS, Tailwind CSS.*
 
 ### 🔹 Backend & Frameworks
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-*Skilled in Django, Django REST Framework, REST APIs, PHP.*
 
 ### 🔹 Databases, Tools & Architecture
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-* Working knowledge of MySQL, SQL Databases.
-* Version control & environments: Git, Linux CLI (Command Line Interface), npm, pip.
-* Core foundations: Object-Oriented Programming (OOP), Data Structures, Algorithms, Scripting.
 
 ---
 
@@ -99,8 +89,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 * 💼 **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/mohammed-ansari-690524266)
 * 📧 **Email:** [ansarimohammed122@gmail.com](mailto:ansarimohammed122@gmail.com)
 * 📞 **Phone:** +91 9326797184
-
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
-</div>
